@@ -9,6 +9,7 @@ class AdminController extends Controller
 {
     public function index()
     {
-        
+        $tt = "asd";
+        return "admin sallam";
     }
 }
